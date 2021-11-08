@@ -37,7 +37,7 @@ Can't for now!!, Later i will make able to deploy on local/vps!!
 
 
 ## Heroku User
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zYxDevs/KurumiChatBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sophiashirashaki/KurumiChatBot)
 
 ## Credits
 [Yoga Pranata](https://t.me/Yoga_CIC)<br>
