@@ -1,4 +1,4 @@
-print("[KURUMI]: Checking System ...")
+print("[Rikka]: Checking System ...")
 import re
 import random
 from os import path
@@ -9,7 +9,7 @@ from pyrogram import (Client, filters, idle)
 from Python_ARQ import ARQ
 from os import environ
 
-print("[KURUMI]: Initializing Config Vars ...")
+print("[Rikka]: Initializing Config Vars ...")
 bot_token = str(environ.get("TOKEN", None))
 B_UNAME = str(environ.get("BOT_USERNAME", None))
 CHARA_NAME = str(environ.get("BOT_NAME", None))
@@ -35,15 +35,15 @@ Here is my help menu and command list.
 /repo - Get Repo Link
 /about - About My Creator
 
-Im a chatbot designed for chatting with you,
+Im a chatbot Takanashi Rikka designed for chatting with you,
 Send me any message then i can reply you!
 """
 
 ABOUT = """
-😘 My Darling is @Yoga_CIC
-I was born in @YBotsSupport
+🥰 Onee-Chan @erosei_1
+I was born in @Alvin_Image_Editor_Group
 
-See List of My Other Brother/Sisters on @SpreadNetworks
+See List of My Other Brother/Sisters on @Alvin_Image_Editor
 
 Built with ❤ and Pyrogram.
 """
@@ -58,7 +58,7 @@ RTEXT = ["I've started...",
          "Dameee! *run away",
          "B-baka>///<",
          "You see my cat?",
-         "My darling is @Yoga_CIC",
+         "Onee-Chan @erosei_1",
          "FBI Open Up!!",
          "My money, someone stolen my money 😢",
          "Are you lolicon?"
@@ -101,9 +101,9 @@ async def type_and_send(message):
 @luna.on_message(filters.command("repo") & ~filters.edited)
 async def repo(_, message):
     await message.reply_text(
-        "[GitHub](https://github.com/zYxDevs/KurumiChatbot)"
-        + " | [Support](t.me/YBotsSupport)"
-        + " | [Updates](t.me/SpreadNetworks)",
+        "[GitHub](https://github.com/SS/nothing)"
+        + " | [Support](t.me/Alvin_Image_Editor_Group)"
+        + " | [Updates](t.me/Alvin_Image_Editor)",
         disable_web_page_preview=True,
     )
 
@@ -175,7 +175,7 @@ async def main():
 --------------------
 | Chatbot Started! |
 --------------------
-|   Yoga Pranata   |
+|    Rikka Chan    |
 --------------------
 """
     )
