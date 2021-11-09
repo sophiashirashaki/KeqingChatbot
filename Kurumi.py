@@ -1,4 +1,4 @@
-print("[Rikka]: Checking System ...")
+print("[Keqing]: Checking System ...")
 import re
 import random
 from os import path
@@ -29,23 +29,24 @@ luna = Client(":memory:",
 arq = None
 
 HELP = """
-Here is my help menu and command list.
+*Here is my help menu and command list.*
 
 /help - To See This Message
 /repo - Get Repo Link
 /about - About My Creator
 
-Im a chatbot Takanashi Rikka designed for chatting with you,
-Send me any message then i can reply you!
+*Im a chatbot Keqing designed for chatting with you,
+Send me any message then i can reply you!*
+found a bug, please report it [here](https://t.me/Alvin_Image_Editor_Group)
 """
 
 ABOUT = """
 🥰 Onee-Chan @erosei_1
 I was born in @Alvin_Image_Editor_Group
 
-See List of My Other Brother/Sisters on @Alvin_Image_Editor
+See List of My Other Brother/Sisters on @Alvin_Image_Editor And @projectsupdates
 
-Built with ❤ and Pyrogram.
+*Built with ❤ and Pyrogram.*
 """
 
 RTEXT = ["I've started...",
@@ -62,6 +63,7 @@ RTEXT = ["I've started...",
          "FBI Open Up!!",
          "My money, someone stolen my money 😢",
          "Are you lolicon?"
+         "Ahh~ Yamete Onii-Chan >//<"
         ]
 
 async def lunaQuery(query: str, user_id: int):
@@ -175,7 +177,7 @@ async def main():
 --------------------
 | Chatbot Started! |
 --------------------
-|    Rikka Chan    |
+|    Keqing Chan   |
 --------------------
 """
     )
