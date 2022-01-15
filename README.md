@@ -4,7 +4,7 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@keqingchat_bot](https://t.me/keqingchat_bot).
 
-<a href="https://t.me/keqingchat_bot"><img src="https://telegra.ph/file/fe8a4a0b81b82ded8ca7b.jpg" width="200" align="right" alt="Keqing on Telegram" /></a>
+<a href="https://t.me/keqingchat_bot"><img src="https://telegra.ph/file/0ac29cef2666e1cfc226f.jpg" width="200" align="right" alt="Keqing on Telegram" /></a>
 
 ## Requirements
 
