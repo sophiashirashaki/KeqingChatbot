@@ -14,8 +14,8 @@ A public running instance can be found on telegram as [@keqingchat_bot](https://
 
 ## Local Deploy
 
-1. `git clone https://github.com/sophiashirashaki/Keqing_Chatbot`
-2. `cd KurumiChatBot`
+1. `git clone https://github.com/sophiashirashaki/KeqingChatbot`
+2. `cd KeqingChatbot`
 3. `pip3 install -r requirements.txt` to install the requirements.
 4. Fill `config.py` with your own values.!
 5. Run with `python3 Keqing.py`
