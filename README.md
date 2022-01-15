@@ -1,10 +1,10 @@
-# KurumiChatBot
-<a href="https://www.codefactor.io/repository/github/zyxdevs/kurumichatbot"><img src="https://www.codefactor.io/repository/github/zyxdevs/kurumichatbot/badge" alt="CodeFactor" /></a><br>
+# KeqingChatbot
+<a href="https://www.codefactor.io/repository/github/sophiashirashaki/KeqingChatbot"><img src="https://www.codefactor.io/repository/github/sophiashirashaki/KeqingChatbot/badge" alt="CodeFactor" /></a><br>
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-A public running instance can be found on telegram as [@TokisakiChatBot](https://t.me/TokisakiChatBot).
+A public running instance can be found on telegram as [@Keqing_Chatbot](https://t.me/Keqing_Chatbot).
 
-<a href="https://t.me/TokisakiChatBot"><img src="https://telegra.ph/file/fe8a4a0b81b82ded8ca7b.jpg" width="200" align="right" alt="Kurumi on Telegram" /></a>
+<a href="https://t.me/Keqing_Chatbot"><img src="https://telegra.ph/file/fe8a4a0b81b82ded8ca7b.jpg" width="200" align="right" alt="Keqing on Telegram" /></a>
 
 ## Requirements
 
@@ -14,21 +14,21 @@ A public running instance can be found on telegram as [@TokisakiChatBot](https:/
 
 ## Local Deploy
 
-1. `git clone https://github.com/zYxDevs/KurumiChatBot`
+1. `git clone https://github.com/sophiashirashaki/Keqing_Chatbot`
 2. `cd KurumiChatBot`
 3. `pip3 install -r requirements.txt` to install the requirements.
 4. Fill `config.py` with your own values.!
-5. Run with `python3 Kurumi.py`
+5. Run with `python3 Keqing.py`
 
 ```
 Can't for now!!, Later i will make able to deploy on local/vps!!
 ```
 
 ## Command List
-- `/start` - Check kurumi is alive or not
+- `/start` - Check keqing is alive or not
 - `/help` - See help menu
 - `/about` - See about this bot
-- `/repo` - Get kurumi repository link
+- `/repo` - Get keqing repository link
 
 
 ## TODO
@@ -37,9 +37,10 @@ Can't for now!!, Later i will make able to deploy on local/vps!!
 
 
 ## Heroku User
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sophiashirashaki/KurumiChatBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sophiashirashaki/KeqingChatbot)
 
 ## Credits
+[Sophia](https://t.me/erosei_1)<br>
 [Yoga Pranata](https://t.me/Yoga_CIC)<br>
 [TheHamkerCat](https://github.com/TheHamkerCat)<br>
 [ÁÑÑÍHÌLÅTØR SPÄRK](https://github.com/annihilatorrrr)
