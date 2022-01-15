@@ -1,6 +1,12 @@
 # KeqingChatbot
-<a href="https://www.codefactor.io/repository/github/sophiashirashaki/KeqingChatbot"><img src="https://www.codefactor.io/repository/github/sophiashirashaki/KeqingChatbot/badge" alt="CodeFactor" /></a><br>
-Just another Telegram AI chat bot written in Python using Pyrogram.
+<p align="center">
+    <a href="https://sophiashirashaki.github.io">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+for+using+Keqing+Chatbot+❤️"
+            alt="Sophia"
+        />
+    </a>
+</p>
 
 A public running instance can be found on telegram as [@keqingchat_bot](https://t.me/keqingchat_bot).
 
