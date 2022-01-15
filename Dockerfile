@@ -13,4 +13,4 @@ COPY . .
 RUN pip3 install -U -r requirements.txt
 
 # Running Kurumi
-CMD ["python3","Kurumi.py"]
+CMD ["python3","Keqing.py"]
