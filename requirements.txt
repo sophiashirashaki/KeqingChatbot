@@ -1,4 +1,0 @@
-pyrogram
-python-arq
-TgCrypto
-python-dotenv
