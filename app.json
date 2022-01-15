@@ -1,8 +1,8 @@
 {
-  "name": "Tokisaki Kurumi",
+  "name": "Keqing",
   "description": "A Telegram Chat bot made using Pyrogram and Python",
-  "repository": "https://github.com/zYxDevs/KurumiChatBot",
-  "logo": "https://telegra.ph/file/538b1bdf2dc409db74f02.jpg",
+  "repository": "https://github.com/sophiashirashaki/KeqingChatbot",
+  "logo": "https://telegra.ph/file/0ac29cef2666e1cfc226f.jpg",
   "keywords": [
     "python3",
     "telegram",
